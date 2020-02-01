@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GameWin
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Gamewin\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=GameWin()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Gamewin.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ readFile()
+comment3.params=a
+comment3.target=void\ sortByScore(PlayerInfo[])
+comment4.params=a\ low\ high\ number
+comment4.target=int\ binarySearch(PlayerInfo[],\ int,\ int,\ int)
+numComments=5
